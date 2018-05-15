@@ -47,4 +47,4 @@ SubresourceIntegrityPlugin.prototype.beforeHtmlGeneration =
 5. run ```npm run build``` again
 6. **[ERROR]** watch the console stating the following: ```PluginArgs Promise { <pending> }```
 
-**NOTE:** When disabling the webpack.config.js 's add asset or the SRI plugin the excecution is normal, however you ofcource miss functionality
+**NOTE:** When disabling the webpack.config.js 's add asset or the SRI plugin the execution is normal, however you of course miss functionality
